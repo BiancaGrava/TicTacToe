@@ -1,0 +1,96 @@
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojAssemblyReference.cache
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.cache
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.CoreCompileInputs.cache
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\C\12C\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.cache
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojResolveAssemblyReference.cache
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.Cache
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\Bianca\Proiecte C#\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojAssemblyReference.cache
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.cache
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.CoreCompileInputs.cache
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojAssemblyReference.cache
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.cache
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.CoreCompileInputs.cache
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\C\12C\ATESTAT FINAL\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+F:\atestat final\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form6.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojAssemblyReference.cache
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form6.resources
+F:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.CoreCompileInputs.cache
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojResolveAssemblyReference.cache
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form6.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.Cache
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+D:\Bianca\Atestat programare\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe.config
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\bin\Debug\Atestat_Bianca Grava_Tania Ionita.pdb
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csprojResolveAssemblyReference.cache
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form1.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form2.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form3.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form4.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form5.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Form6.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca_Grava_Tania_Ionita.Properties.Resources.resources
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.csproj.GenerateResource.Cache
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.exe
+E:\Atestat_Bianca Grava_Tania Ionita\Atestat_Bianca Grava_Tania Ionita\obj\Debug\Atestat_Bianca Grava_Tania Ionita.pdb

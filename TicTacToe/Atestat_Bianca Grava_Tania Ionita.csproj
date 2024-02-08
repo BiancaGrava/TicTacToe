@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6221BFA4-6999-4C36-B1D7-28C811C4A2DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Atestat_Bianca_Grava_Tania_Ionita</RootNamespace>
+    <AssemblyName>Atestat_Bianca Grava_Tania Ionita</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dimensiune.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\genereaza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\genereaza1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext423580268950837.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verifica2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iesire1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iesire.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0_ttt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x_ttt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundal joc.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundal2joc.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-02-22 144521.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundalaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433584846162598.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433584846162598 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585013035656.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585103277265.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585221801703.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585397397316.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585419620473.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585551011773.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext433585655320179.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ab54b959048057.Y3JvcCw3NDUsNTgzLDE3Myw2NzM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture3.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture5.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundal.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\valori.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jucator.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
